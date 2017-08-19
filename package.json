@@ -26,9 +26,11 @@
   },
   "homepage": "https://github.com/oftn-oswg/oftn-l10n-example#readme",
   "devDependencies": {
-    "webpack": "^3.5.5"
+    "webpack": "^3.5.5",
+    "webpack-extract-oftn-l10n": "^1.0.0"
   },
   "dependencies": {
+    "oftn-l10n": "^0.1.0",
     "os-locale": "^2.1.0"
   }
 }

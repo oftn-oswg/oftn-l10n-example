@@ -1,4 +1,4 @@
-const l10n = require('../../oftn-l10n');
+const l10n = require('oftn-l10n');
 const path = require('path');
 const oslocale = require('os-locale');
 
