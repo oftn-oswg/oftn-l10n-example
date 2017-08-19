@@ -1,0 +1,9 @@
+{
+	"zh": {
+		"get_lang": "你说哪一种语言？ ",
+		"get_name": "您贵姓？ ",
+		"goodbye": "再见",
+		"thank_you": "非常感谢你{0}",
+		"welcome": "你好"
+	}
+}

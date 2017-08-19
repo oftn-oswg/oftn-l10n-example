@@ -1,0 +1,9 @@
+{
+	"": {
+		"get_lang": "Before we get started, what language do you speak? ",
+		"get_name": "What is your name? ",
+		"goodbye": "Goodbye.",
+		"thank_you": "Thank you very much, {0}!",
+		"welcome": "Welcome!"
+	}
+}

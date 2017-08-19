@@ -1,0 +1,9 @@
+{
+	"es": {
+		"get_lang": "Antes de empezar, ¿cuál idioma prefieres? ",
+		"get_name": "¿Cómo te llamas? ",
+		"goodbye": "Adios.",
+		"thank_you": "Muchas gracias, {0}!",
+		"welcome": "Bienvenidos!"
+	}
+}
