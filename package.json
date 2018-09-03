@@ -31,6 +31,6 @@
   },
   "dependencies": {
     "oftn-l10n": "^0.1.0",
-    "os-locale": "^2.1.0"
+    "os-locale": "^3.0.1"
   }
 }
